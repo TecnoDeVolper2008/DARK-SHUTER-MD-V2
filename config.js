@@ -7,7 +7,7 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
 SESSION_ID: 'PINKVENOM-MD;TUck0DQJ#KgpIB34cvG9piKzB0B0PGXaIvwHfoU1rx88vBWMe5ZA',
-GITHUB_TOKEN: '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',
+GITHUB_TOKEN: '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',
 REPO_NAME: 'durksuhhetr',
 GITHUB_USER_NAME: 'TecnoDeVolper2008',
 
